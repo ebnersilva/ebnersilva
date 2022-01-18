@@ -11,8 +11,6 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="App Center" src="https://img.shields.io/badge/AppCenter-Deploy%20React%20Native-orange" />
-  <img alt="Code Push" src="https://img.shields.io/badge/CodePush-Automatic%20Updates%20React%20Native-red" />
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /> 
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -31,4 +29,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img alt="AdonisJS" src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white" />
+  <img alt="App Center" src="https://img.shields.io/badge/AppCenter-Deploy%20React%20Native-orange" />
+  <img alt="Code Push" src="https://img.shields.io/badge/CodePush-Automatic%20Updates%20React%20Native-red" />
 </p>
