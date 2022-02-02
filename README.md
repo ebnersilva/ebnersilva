@@ -29,6 +29,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img alt="AdonisJS" src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white" />
-  <img alt="App Center" src="https://img.shields.io/badge/AppCenter-Deploy%20React%20Native-orange" />
-  <img alt="Code Push" src="https://img.shields.io/badge/CodePush-Automatic%20Updates%20React%20Native-red" />
+<!--   <img alt="App Center" src="https://img.shields.io/badge/AppCenter-Deploy%20React%20Native-orange" />
+  <img alt="Code Push" src="https://img.shields.io/badge/CodePush-Automatic%20Updates%20React%20Native-red" /> -->
 </p>
