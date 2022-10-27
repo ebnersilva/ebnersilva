@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ebnersilva](https://github.com/ebnersilva)
 
-- 🎬 I regularly produce videos on Youtube [Youtube 🎬](Youtube 🎬)
+- 🎬 I regularly produce videos on Youtube [https://www.youtube.com/channel/UC8tO2v4pIsuhx3r5WTtwbVA](https://www.youtube.com/channel/UC8tO2v4pIsuhx3r5WTtwbVA)
 
 - 💬 Ask me about **ReactJS, React Native, Node.JS, Express, AdonisJS, Github Actions, Fastlane, AppCenter, Docker and AWS Technologies**
 
@@ -24,7 +24,7 @@
 <a href="https://dev.to/ebnersilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ebnersilva" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ebner-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebner-silva" height="30" width="40" /></a>
 <a href="https://instagram.com/ebner.suporte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebner.suporte" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ebner matias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ebner matias" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc8to2v4pisuhx3r5wttwbva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc8to2v4pisuhx3r5wttwbva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
